@@ -59,5 +59,5 @@ if (user.phoneNumber || user.email) {
 }
 else {
     console.log("Necessário habilitar uma forma de contato");
-    console.log("--------------------");
+    console.log("---------- FIM ---------");
 }
